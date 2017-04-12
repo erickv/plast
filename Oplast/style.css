@@ -1,0 +1,45 @@
+body{
+	font-family: "eurostile";
+	font-size: 20px;
+
+}
+
+header {
+	background: white;
+	color: black;
+	width: 100%;
+	margin: auto;
+	/*border-bottom: 1px solid black;*/
+	padding: 0 3%;
+	}
+h1{
+	margin: 20px 0 0 0;
+	color: black;
+	font-family: "eurostile";
+	font-weight: 800;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+header nav{
+	margin: 0 auto;
+}
+
+header ul{
+	padding: 2.5%;
+	list-style: none;
+}
+
+
+header ul li{
+	display: inline-block;
+}	
+
+header ul li a{
+	color: inherit;
+	text-decoration: none;
+	padding: 20px 15px;
+	font-family: "eurostile";
+  	text-transform: uppercase;
+}	
+
